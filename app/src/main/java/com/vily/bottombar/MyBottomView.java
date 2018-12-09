@@ -90,7 +90,7 @@ public class MyBottomView extends LinearLayoutCompat {
             mIv_icon = mView.findViewById(R.id.iv_icon);
             mTv_title = mView.findViewById(R.id.tv_title);
             mLly_bottom = mView.findViewById(R.id.lly_bottom);
-
+            System.out.println("---------sss");
 
         }
 
