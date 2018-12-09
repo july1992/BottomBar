@@ -34,7 +34,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:icon="@mipmap/ic_launcher"
-            app:title="首页">
+            app:title="画面">
 
         </com.vily.bottombar.MyBottomView>
         <com.vily.bottombar.MyBottomView
@@ -42,7 +42,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:icon="@mipmap/ic_launcher"
-            app:title="首页">
+            app:title="开始">
 
         </com.vily.bottombar.MyBottomView>
         <com.vily.bottombar.MyBottomView
@@ -50,7 +50,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:icon="@mipmap/ic_launcher"
-            app:title="首页">
+            app:title="我的">
 
         </com.vily.bottombar.MyBottomView>
     </LinearLayout>
